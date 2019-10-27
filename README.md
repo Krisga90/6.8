@@ -1,0 +1,1 @@
+counting number of chars from external file
